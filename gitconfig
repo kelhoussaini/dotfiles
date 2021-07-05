@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kenzaelhoussaini@gmail.com
+	name = Kenza EL HOUSSAINI
